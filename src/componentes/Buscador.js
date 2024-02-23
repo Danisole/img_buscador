@@ -23,7 +23,7 @@ class Buscador extends Component {
                         placeholder="Busca tu imagen..."/>
                     </div>
                     <div className="form-group col-md-4">
-                        <input type="submit" className="btn btn-danger btn-block" value="Buscar"/>
+                        <input type="submit" className="btn btn-danger btn-block" value="Buscar"style={{borderRadius: '8px'}}/>
                     </div>
                 </div>
             </form>

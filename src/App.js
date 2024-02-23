@@ -1,8 +1,10 @@
 //import React, { Component } from "react";
 import React, { Component } from "react";
+import "bootswatch/dist/morph/bootstrap.min.css";
 import Navbar from "./componentes/Navbar/Navbar";
 import Buscador from "./componentes/Buscador";
 import Resultado from "./componentes/Resultado";
+
 
 
 class App extends Component {
