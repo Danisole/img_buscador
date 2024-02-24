@@ -1,5 +1,5 @@
 # El img_buscador es un pequeño proyecto realizado con react y estilado con bootswatch para darle un buen estilo y usabilidad a la vez que se consume una api llamada [pixabay](https://pixabay.com) la cual contiene imagenes gratuitas que pueden ser usadas para los diferentes proyectos
-_________________________________________________________________________________________Paquete de react activo__________________________________________________________________________________________________________________________❤️
+_______________________________Paquete de react activo__________________________________❤️
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
